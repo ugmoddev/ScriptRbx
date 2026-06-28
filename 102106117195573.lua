@@ -1,4 +1,4 @@
 --web trieu
 loadstring(game:HttpGet('https://pastefy.app/JVk4bYLW/raw'))()
 --web obf
-loadstring(game:HttpGet('https://pastefy.app/Pj8Go7xj/raw'))()
+loadstring(game:HttpGet('https://pastefy.app/ktNYWtun/raw'))()
