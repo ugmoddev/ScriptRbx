@@ -1,4 +1,4 @@
 -- noitify tu lam
-loadstring(game:HttpGet("https://pastefy.app/ViQsThLb/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/TOV3h26F/raw"))()
 -- noitify trieu
-loadstring(game:HttpGet("https://pastefy.app/dhbt8m3c/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/UdwqXxuu/raw"))()
