@@ -6,3 +6,5 @@ pcall(loadstring(game:HttpGet"https://pastefy.app/UdwqXxuu/raw"))
 pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/Dev-AnhTuansitink/NatAov-Hub/refs/heads/main/Trom_Joibid_Hub_May.lua"))
 -- hncu
 pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/Dev-Hinishi/Hinishi-Hub/refs/heads/main/API/CheckBoss"))
+--web tự làm api triệu
+pcall(loadstring(game:HttpGet"https://obfuscatorhub.onrender.com/api/nvbs0eoo"))
