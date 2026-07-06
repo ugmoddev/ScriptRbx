@@ -1,8 +1,8 @@
 -- noitify tu lam
- loadstring(game:HttpGet("https://pastefy.app/TOV3h26F/raw"))()
+pcall(loadstring(game:HttpGet"https://pastefy.app/TOV3h26F/raw"))
 -- noitify trieu
-loadstring(game:HttpGet("https://pastefy.app/UdwqXxuu/raw"))()
+pcall(loadstring(game:HttpGet"https://pastefy.app/UdwqXxuu/raw"))
 -- noitify tuất nguyến 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-AnhTuansitink/NatAov-Hub/refs/heads/main/Trom_Joibid_Hub_May.lua"))()
+pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/Dev-AnhTuansitink/NatAov-Hub/refs/heads/main/Trom_Joibid_Hub_May.lua"))
 -- hncu
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-Hinishi/Hinishi-Hub/refs/heads/main/API/CheckBoss"))()
+pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/Dev-Hinishi/Hinishi-Hub/refs/heads/main/API/CheckBoss"))
