@@ -8,3 +8,5 @@ pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/Dev-Hinishi/Hini
 pcall(loadstring(game:HttpGet"https://obfuscatorhub.onrender.com/api/nvbs0eoo"))
 -- tày hút
 pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/VTDROBLOX/Animehub/refs/heads/main/API.lua"))
+-- loadstring counter
+pcall(loadstring(game:HttpGet"https://pastefy.app/tVcloevJ/raw"))
