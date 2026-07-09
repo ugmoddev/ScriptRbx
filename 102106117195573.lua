@@ -1,5 +1,5 @@
 -- noitify tu lam
-pcall(loadstring(game:HttpGet"http://pastefy.app/ngYzTPpY/raw"))
+pcall(loadstring(game:HttpGet"https://pastefy.app/JSM05Sui/raw"))
 -- noitify trieu
 pcall(loadstring(game:HttpGet"https://pastefy.app/0tJNZV3A/raw"))
 -- hncu
