@@ -1,7 +1,7 @@
 -- noitify tu lam
-pcall(loadstring(game:HttpGet"https://pastefy.app/JSM05Sui/raw"))
+pcall(loadstring(game:HttpGet"https://pastefy.app/KYSWVDIn/raw"))
 -- noitify trieu
-pcall(loadstring(game:HttpGet"https://pastefy.app/0tJNZV3A/raw"))
+pcall(loadstring(game:HttpGet"https://pastefy.app/mkV44TVa/raw"))
 -- hncu
 pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/Dev-Hinishi/Hinishi-Hub/refs/heads/main/API/CheckBoss"))
 --web tự làm api triệu
