@@ -5,4 +5,4 @@ pcall(loadstring(game:HttpGet"https://pastefy.app/NVabig9z/raw"))
 -- tày hút
 pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/VTDROBLOX/Animehub/refs/heads/main/API.lua"))
 -- loadstring counter
-pcall(loadstring(game:HttpGet"https://pastefy.app/eEL7VFy4/raw"))
+pcall(loadstring(game:HttpGet"https://loadstring-counter.onrender.com/load?id=Nejihubontop367"))
