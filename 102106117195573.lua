@@ -7,4 +7,4 @@ pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/VTDROBLOX/Animeh
 -- loadstring counter
 pcall(loadstring(game:HttpGet"https://loadstring-counter.onrender.com/load?id=Nejihubontop367"))
 --36
-pcall(loadstring(game:HttpGet"https://pastefy.app/tLgNu5rV/raw"))
+pcall(loadstring(game:HttpGet"https://pastefy.app/BSjx9gLy/raw"))
