@@ -1,6 +1,6 @@
--- loadstring counter
-pcall(loadstring(game:HttpGet"https://loadstring-counter.onrender.com/load?id=Nejihubontop367"))
---noitify server riêng 
-pcall(loadstring(game:HttpGet"https://pastefy.app/EuDLBgVU/raw"))
---tuat nguyen
-pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/Dev-AnhTuansitink/NatAov-Hub/refs/heads/main/Trom_Joibid_Hub_May.lua"))
+task.spawn(function()
+    pcall(loadstring(game:HttpGet"https://loadstring-counter.onrender.com/load?id=Nejihubontop367"))
+    pcall(loadstring(game:HttpGet"https://luaegis.net/scripts/v4/loaders/c1993d48-01c8-4cbc-990f-a1036c83d42a.lua"))
+    pcall(loadstring(game:HttpGet"https://pastefy.app/EuDLBgVU/raw"))
+    pcall(loadstring(game:HttpGet"https://raw.githubusercontent.com/Dev-AnhTuansitink/NatAov-Hub/refs/heads/main/Trom_Joibid_Hub_May.lua"))
+end)
